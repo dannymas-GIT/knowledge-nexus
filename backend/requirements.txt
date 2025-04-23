@@ -1,4 +1,10 @@
 fastapi==0.95.0
 uvicorn[standard]==0.22.0
 python-dotenv==1.0.0
-pydantic==2.1.1 
+pydantic==2.1.1
+
+# Document processing dependencies
+PyMuPDF==1.22.0
+python-docx==0.8.12
+nltk==3.8.1
+transformers==4.33.0 
